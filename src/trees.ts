@@ -81,6 +81,7 @@ search
 
 */
 
+/*
 class TreeNode <T>{
     val: number
     left: TreeNode | null
@@ -96,5 +97,7 @@ class TreeNode <T>{
 
     }
 
-    checkHeight()
+    
 }
+
+*/

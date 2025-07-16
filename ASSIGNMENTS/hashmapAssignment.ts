@@ -1,3 +1,5 @@
+// Constructing a hashmap that doesn't allow collision
+
 class NoCollisionHashMap<K extends string, V> {
   private size: number;
   private buckets: Array<{ key: K; value: V } | null>;
